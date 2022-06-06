@@ -1,0 +1,25 @@
+{
+  "name": "erp",
+  "version": "1.0.0",
+  "description": "ERP Papelaria",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --env node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woliveira/erp.git"
+  },
+  "author": "Wilson Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woliveira/erp/issues"
+  },
+  "homepage": "https://github.com/woliveira/erp#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "jest": "^28.1.0",
+    "mysql": "^2.18.1"
+  }
+}
