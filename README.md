@@ -9,6 +9,9 @@ ERP é um projeto que tem como objetivo, ajudar empresas a controlar o fluxo e c
 
 ## Backlog
 
+Autenticação:
+- Jwt
+
 Funcionalidades de Cadastro:
 - Produtos
 - Categorias
